@@ -146,19 +146,6 @@ The project demonstrates the feasibility of combining autonomous flight with onb
 
 ---
 
-## Repository Structure
-
-```
-├── main.py
-├── yolov4tiny.py
-├── models/
-├── database/
-├── images/
-├── docs/
-└── README.md
-```
-
----
 
 ## Authors
 
